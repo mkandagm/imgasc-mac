@@ -1,0 +1,14 @@
+/* 
+ Localizable.strings
+ imgASC
+ 
+ Created by Masanori Kanda on 11/07/24.
+ Copyright 2011 __MyCompanyName__. All rights reserved.
+ */
+
+"crlfstr"= "\n";
+"customtracecharacters"=",./|\_";
+"patterntracecharacters"=" @#$%*ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+"edgetracecharacters"=" \/:;.,'|-=_~";
+"halfspacechar"=" ";
+"fullspacechar"="　";
