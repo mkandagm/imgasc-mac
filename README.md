@@ -1,1 +1,1 @@
-# imgasc-mac
+# imgasc-macos
